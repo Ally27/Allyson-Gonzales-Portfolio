@@ -1,4 +1,4 @@
-![Allyson Gonzales Banner](./assets/images/port.PNG)
+![Allyson Gonzales Banner](./assets/images/Portlogo.PNG)
 # Allyson-Gonzales-Portfolio
 
 <h2>Hello!</h2>

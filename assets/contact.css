@@ -48,6 +48,7 @@ h1{
 .topnav a:hover {
     background-color: #ff7300;
     color: #ffffff;
+    box-shadow: 0 5px 10px 0 #fffdfd;
 }
   
 .topnav a.active {
@@ -80,6 +81,7 @@ input[type=text], input[type=email], select, textarea {
   /* When moving the mouse over the submit button, add a darker green color */
   input[type=submit]:hover {
     background-color: #ff7300;
+    box-shadow: 0 5px 10px 0 #fffdfd;
   }
   
   /* Add a background color and some padding around the form */
