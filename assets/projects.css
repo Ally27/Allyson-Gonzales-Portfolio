@@ -15,7 +15,7 @@ body{
 
 .Gonzales{
     background-color: black;
-    color: #ce8d79;
+    color: orange;
     font-size: bold;
 }
 
@@ -48,7 +48,7 @@ h1{
 }
   
 .topnav a:hover {
-    background-color: #94432b;
+    background-color: #ff7300;
     color: #ffffff;
 }
   
