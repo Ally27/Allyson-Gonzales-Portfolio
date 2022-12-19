@@ -1,0 +1,55 @@
+body{
+    font-family: 'Source Code Pro', monospace ;
+    background-color: rgb(190, 187, 187);
+    margin: 0;
+}
+
+
+.header{
+    background-color: black;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    padding: 18px;
+}
+
+.Gonzales{
+    background-color: black;
+    color: #ce8d79;
+    font-size: bold;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.topnav {
+    height: 56px;
+    padding: 0 16px;
+    display: flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 2px;
+    border-radius: 5%;
+}
+  
+.topnav a:hover {
+    background-color: #94432b;
+    color: #ffffff;
+}
+  
+.topnav a.active {
+    color: white;
+}
