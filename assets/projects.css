@@ -56,3 +56,29 @@ h1{
 .topnav a.active {
     color: white;
 }
+
+h2{
+    font-family: 'Source Code Pro', monospace;
+    text-decoration:underline;
+    color: white;
+}
+
+.projects{
+    display: flex;
+    flex-shrink: 49%;
+    margin-left: 2%;
+    padding-top: 3%;
+}
+
+.projects img{
+    width: 25%;
+    height: auto;
+    
+
+
+}
+@media screen and (max-width: 980px) {
+    .box{
+     flex-direction: column;
+    }
+ }
