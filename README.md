@@ -18,4 +18,4 @@ __University of Washington__ <br>
 __GreenRiver College__<br>
 -December 2020- March 2022
 
-Checkout the GitHub repository: [Portfolio](https://github.com/Ally27/Allyson-Gonzales-Portfolio)
+Checkout it out here!: [Portfolio](https://ally27.github.io/Allyson-Gonzales-Portfolio/)
