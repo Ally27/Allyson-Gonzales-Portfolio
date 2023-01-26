@@ -3,7 +3,7 @@
 
 <h2>Hello!</h2>
 
-I'm Allyson Gonzales and this site is a great example of my expertise in web development.<br>
+I'm Allyson and this site is a great example of my expertise in web development.<br>
 
 <br><h2>Skills</h2>
 -HTML<br>
